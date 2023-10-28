@@ -1,0 +1,18 @@
+p {
+    font-size: 18px;
+    font-weight: bold;
+    color: #3a3838;
+}
+.quotation {
+    font-size: 18px;
+    font-weight: bold;
+    color: #dd5252;
+}
+.w3-top {
+    background-color: rgba(248, 247, 247, 0.5);
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+ul {
+    list-style-type: square;
+}
